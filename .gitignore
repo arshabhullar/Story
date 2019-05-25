@@ -1,0 +1,4 @@
+# this is the ignored file that you do not want to commit because it may contain 
+# passwords and api keys. so add file name here.
+# you are learning git control 
+chapterTwo.txt
